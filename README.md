@@ -38,7 +38,7 @@ Currently, only the Volla Phone is ready to use.
 
 You might want to join [our group on Telegram](https://t.me/andbootmgr).
 
-Technical information is available [on our wiki](https://wiki.abmanager.tech).
+Technical information is available [on our wiki](https://wiki.andbootmgr.org/).
 
 ## How can I port it?
 Currently, your best bet is [our Telegram group](https://t.me/andbootmgr).
